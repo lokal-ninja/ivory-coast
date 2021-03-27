@@ -1,0 +1,19 @@
+baseURL = "https://ci.shoogle.net/ivory-coast"
+languageCode = "fr"
+title = "Côte d'Ivoire"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "ivory-coast"
+
+[taxonomies]
+  shop = "shops"
