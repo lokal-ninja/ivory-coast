@@ -1,5 +1,0 @@
----
-title: "La pepiniere Vente & Location de Bosai"
-url: /cocody/la-pepiniere-vente-and-location-de-bosai-3/
-shop: fleuriste
----
