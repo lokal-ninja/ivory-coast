@@ -1,6 +1,6 @@
 ---
 title: Fresco
 url: /fresco/
-latitude: 5.1041847
-longitude: -5.5860818000000005
+latitude: 5.104
+longitude: -5.588
 ---

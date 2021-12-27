@@ -1,6 +1,6 @@
 ---
 title: Man
 url: /man/
-latitude: 7.4090813
-longitude: -7.5501702
+latitude: 7.41
+longitude: -7.55
 ---

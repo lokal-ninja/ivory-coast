@@ -1,6 +1,6 @@
 ---
 title: Plateau
 url: /plateau/
-latitude: 
-longitude: 
+latitude: 5.323
+longitude: -4.019
 ---

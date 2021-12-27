@@ -1,6 +1,6 @@
 ---
 title: issia
 url: /issia/
-latitude: 
-longitude: 
+latitude: 6.487
+longitude: -6.59
 ---
