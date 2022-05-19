@@ -1,5 +1,5 @@
 ---
-title: "Librairie-papeterie du centre"
+title: "Librairie-Papeterie du Centre"
 url: /bouake/librairie-papeterie-du-centre/
 shop: livres
 ---
