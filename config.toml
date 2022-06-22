@@ -1,4 +1,4 @@
-baseURL = "https://ci.shoogle.net/ivory-coast"
+baseURL = "https://ci.shoogle.net/ivory-coast/"
 languageCode = "fr"
 title = "Côte d'Ivoire"
 theme = "ln-base"
