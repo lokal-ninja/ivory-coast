@@ -1,5 +1,5 @@
 ---
 title: "Des Gâteaux et du Pain"
-url: /cocody/des-gateaux-et-du-pain-3/
+url: /cocody/des-gateaux-et-du-pain/
 shop: pâtisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie Centrale"
-url: /oume/pharmacie-centrale-2/
+url: /oume/pharmacie-centrale/
 shop: chimiste
 ---

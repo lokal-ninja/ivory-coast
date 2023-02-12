@@ -1,5 +1,5 @@
 ---
 title: "King Cash"
-url: /yopougon/king-cash-4/
+url: /yopougon/king-cash/
 shop: supermarché
 ---

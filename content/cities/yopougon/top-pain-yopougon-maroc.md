@@ -1,5 +1,5 @@
 ---
 title: "Top Pain"
-url: /yopougon/top-pain-4/
+url: /yopougon/top-pain/
 shop: boulangerie
 ---
