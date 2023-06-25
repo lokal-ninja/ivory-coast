@@ -1,6 +1,6 @@
 ---
 title: Cocody
 url: /cocody/
-latitude: 5.37
-longitude: -3.998
+latitude: 5.362
+longitude: -3.959
 ---
