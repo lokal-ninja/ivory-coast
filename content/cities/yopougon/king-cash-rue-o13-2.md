@@ -1,5 +1,5 @@
 ---
 title: "King Cash"
-url: /yopougon/king-cash-rue-p152-princesse/
+url: /yopougon/king-cash-rue-o13-2/
 shop: supermarché
 ---
