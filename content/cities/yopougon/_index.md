@@ -1,6 +1,6 @@
 ---
 title: Yopougon
 url: /yopougon/
-latitude: 5.344
-longitude: -4.072
+latitude: 5.334
+longitude: -4.074
 ---
