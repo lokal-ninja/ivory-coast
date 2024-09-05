@@ -1,5 +1,5 @@
 ---
 title: "VinoThek Gh"
 url: /half-assini/vinothek-gh/
-shop: vin
+shop: Wein
 ---

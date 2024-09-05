@@ -1,5 +1,5 @@
 ---
 title: "Coqivoire"
 url: /cocody/coqivoire/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /cocody/boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

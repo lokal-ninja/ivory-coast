@@ -1,5 +1,5 @@
 ---
 title: "LONACI"
 url: /bouake/lonaci/
-shop: billet
+shop: Tickets
 ---

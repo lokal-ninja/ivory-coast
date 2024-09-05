@@ -1,5 +1,5 @@
 ---
 title: "Renault Trucks"
 url: /marcory/renault-trucks/
-shop: voiture
+shop: Autohaus
 ---

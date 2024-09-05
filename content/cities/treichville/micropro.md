@@ -1,5 +1,5 @@
 ---
 title: "Micropro"
 url: /treichville/micropro/
-shop: ordinateur
+shop: Computer
 ---

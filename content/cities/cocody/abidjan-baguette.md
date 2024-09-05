@@ -1,5 +1,5 @@
 ---
 title: "Abidjan Baguette"
 url: /cocody/abidjan-baguette/
-shop: boulangerie
+shop: Bäckerei
 ---

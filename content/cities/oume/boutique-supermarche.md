@@ -1,5 +1,5 @@
 ---
 title: "Boutique Supermarché"
 url: /oume/boutique-supermarche/
-shop: commodité
+shop: Lebensmittel
 ---

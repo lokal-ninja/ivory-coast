@@ -1,5 +1,5 @@
 ---
 title: "drocolor"
 url: /marcory/drocolor/
-shop: peinture
+shop: Farben
 ---

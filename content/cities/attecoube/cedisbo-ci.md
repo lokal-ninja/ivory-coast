@@ -1,5 +1,5 @@
 ---
 title: "Cedisbo-Ci"
 url: /attecoube/cedisbo-ci/
-shop: boissons
+shop: Getränke
 ---

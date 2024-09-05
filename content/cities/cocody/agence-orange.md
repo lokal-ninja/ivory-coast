@@ -1,5 +1,5 @@
 ---
 title: "Agence Orange"
 url: /cocody/agence-orange/
-shop: téléphone portable
+shop: Handy
 ---

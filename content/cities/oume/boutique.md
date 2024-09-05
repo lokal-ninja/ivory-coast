@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /oume/boutique/
-shop: shop
+shop: Allgemein
 ---
