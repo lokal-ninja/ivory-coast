@@ -1,5 +1,5 @@
 ---
 title: "Callivoire"
 url: /marcory/callivoire/
-shop: Allgemein
+shop: shop
 ---

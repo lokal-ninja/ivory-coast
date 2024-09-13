@@ -1,5 +1,5 @@
 ---
 title: "CDCI"
 url: /oume/cdci/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Abidjan"
 url: /treichville/peugeot-abidjan/
-shop: Autohaus
+shop: voiture
 ---

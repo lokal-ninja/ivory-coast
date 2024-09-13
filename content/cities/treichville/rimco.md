@@ -1,5 +1,5 @@
 ---
 title: "Rimco"
 url: /treichville/rimco/
-shop: Reifen
+shop: pneus
 ---

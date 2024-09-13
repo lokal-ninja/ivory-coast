@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie"
 url: /adjame/boulangerie/
-shop: Bäckerei
+shop: boulangerie
 ---

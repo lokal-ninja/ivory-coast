@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Sococé"
 url: /cocody/patisserie-sococe/
-shop: Bäckerei
+shop: boulangerie
 ---

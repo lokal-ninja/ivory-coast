@@ -1,5 +1,5 @@
 ---
 title: "Ramco"
 url: /marcory/ramco/
-shop: Autoteile
+shop: pièces de voitures
 ---

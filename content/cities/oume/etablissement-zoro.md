@@ -1,5 +1,5 @@
 ---
 title: "Etablissement ZORO"
 url: /oume/etablissement-zoro/
-shop: Eisenwaren
+shop: matériel informatique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kia"
 url: /marcory/kia/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galerie Le Jeceda"
 url: /le-plateau/galerie-le-jeceda/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

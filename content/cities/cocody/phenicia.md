@@ -1,5 +1,5 @@
 ---
 title: "Phenicia"
 url: /cocody/phenicia/
-shop: Möbel
+shop: meubles
 ---

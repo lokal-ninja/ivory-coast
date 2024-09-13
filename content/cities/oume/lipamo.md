@@ -1,5 +1,5 @@
 ---
 title: "LIPAMO"
 url: /oume/lipamo/
-shop: Bücher
+shop: livres
 ---

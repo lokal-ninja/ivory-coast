@@ -1,5 +1,5 @@
 ---
 title: "Technibat"
 url: /treichville/technibat/
-shop: Eisenwaren
+shop: matériel informatique
 ---

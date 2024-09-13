@@ -1,5 +1,5 @@
 ---
 title: "BatiPlus"
 url: /marcory/batiplus/
-shop: Baumarkt
+shop: à faire soi-même
 ---

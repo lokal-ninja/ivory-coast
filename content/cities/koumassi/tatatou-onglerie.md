@@ -1,5 +1,5 @@
 ---
 title: "Tatatou Onglerie"
 url: /koumassi/tatatou-onglerie/
-shop: Kosmetik
+shop: beauté
 ---

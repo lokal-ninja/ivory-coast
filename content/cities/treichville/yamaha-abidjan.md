@@ -1,5 +1,5 @@
 ---
 title: "Yamaha Abidjan"
 url: /treichville/yamaha-abidjan/
-shop: Motorrad
+shop: moto
 ---

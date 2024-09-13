@@ -1,5 +1,5 @@
 ---
 title: "Bernabé"
 url: /treichville/bernabe/
-shop: Eisenwaren
+shop: matériel informatique
 ---

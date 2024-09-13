@@ -1,5 +1,5 @@
 ---
 title: "Chez Assi"
 url: /adjame/chez-assi/
-shop: Eisenwaren
+shop: matériel informatique
 ---

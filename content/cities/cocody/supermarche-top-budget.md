@@ -1,5 +1,5 @@
 ---
 title: "Supermarché Top Budget"
 url: /cocody/supermarche-top-budget/
-shop: Supermarkt
+shop: supermarché
 ---

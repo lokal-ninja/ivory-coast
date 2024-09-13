@@ -1,5 +1,5 @@
 ---
 title: "Pharmacie Colombe"
 url: /grand-bassam/pharmacie-colombe/
-shop: Drogerie
+shop: chimiste
 ---

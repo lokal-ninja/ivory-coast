@@ -1,5 +1,5 @@
 ---
 title: "ADJ Rue Barre"
 url: /adjame/adj-rue-barre/
-shop: Supermarkt
+shop: supermarché
 ---

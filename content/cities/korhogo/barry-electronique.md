@@ -1,5 +1,5 @@
 ---
 title: "Barry électronique"
 url: /korhogo/barry-electronique/
-shop: Handy
+shop: téléphone portable
 ---

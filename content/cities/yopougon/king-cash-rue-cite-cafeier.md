@@ -1,5 +1,5 @@
 ---
 title: "King Cash"
 url: /yopougon/king-cash-rue-cite-cafeier/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Depot de Boisson"
 url: /oume/depot-de-boisson/
-shop: Spirituosen
+shop: alcool
 ---

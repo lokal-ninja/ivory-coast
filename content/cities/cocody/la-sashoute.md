@@ -1,5 +1,5 @@
 ---
 title: "La Sashoute"
 url: /cocody/la-sashoute/
-shop: Landwirtschaftlich
+shop: agraire
 ---

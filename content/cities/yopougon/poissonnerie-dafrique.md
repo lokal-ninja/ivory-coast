@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie d'Afrique"
 url: /yopougon/poissonnerie-dafrique/
-shop: Fisch
+shop: fruits de mer
 ---

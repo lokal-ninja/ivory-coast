@@ -1,5 +1,5 @@
 ---
 title: "Casino"
 url: /cocody/casino/
-shop: Supermarkt
+shop: supermarché
 ---

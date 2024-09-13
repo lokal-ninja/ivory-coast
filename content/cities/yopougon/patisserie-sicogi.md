@@ -1,5 +1,5 @@
 ---
 title: "Pâtisserie Sicogi"
 url: /yopougon/patisserie-sicogi/
-shop: Bäckerei
+shop: boulangerie
 ---

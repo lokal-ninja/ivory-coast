@@ -1,5 +1,5 @@
 ---
 title: "Pressing"
 url: /yopougon/pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L’Emmanuel"
 url: /yopougon/lemmanuel/
-shop: Supermarkt
+shop: supermarché
 ---

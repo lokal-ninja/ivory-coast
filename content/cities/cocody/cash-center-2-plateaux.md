@@ -1,5 +1,5 @@
 ---
 title: "Cash Center 2 Plateaux"
 url: /cocody/cash-center-2-plateaux/
-shop: Supermarkt
+shop: supermarché
 ---

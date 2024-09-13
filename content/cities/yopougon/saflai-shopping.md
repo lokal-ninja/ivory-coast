@@ -1,5 +1,5 @@
 ---
 title: "Saflai Shopping"
 url: /yopougon/saflai-shopping/
-shop: Kleidung
+shop: vêtements
 ---

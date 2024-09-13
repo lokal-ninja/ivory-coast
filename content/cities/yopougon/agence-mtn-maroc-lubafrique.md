@@ -1,5 +1,5 @@
 ---
 title: "Agence MTN Maroc Lubafrique"
 url: /yopougon/agence-mtn-maroc-lubafrique/
-shop: Handy
+shop: téléphone portable
 ---
