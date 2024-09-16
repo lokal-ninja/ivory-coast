@@ -1,11 +1,11 @@
 id: 330298946
-type: way
+type: node
 latitude: 5.37414
 longitude: -3.99035
 postcode: ""
 city: Cocody
-street: "Rue des Jardins"
-housenumber: 
+street: Rue des Jardins
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30; Sa 08:30-19:30; PH closed"
+opening_hours: Mo-Fr 08:30-19:30; Sa 08:30-19:30; PH closed
 website: ""
