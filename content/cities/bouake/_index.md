@@ -1,6 +1,6 @@
 ---
 title: Bouaké
 url: /bouake/
-latitude: 7.684
-longitude: -5.029
+latitude: 7.683
+longitude: -5.038
 ---
