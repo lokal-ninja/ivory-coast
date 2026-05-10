@@ -1,6 +1,6 @@
 ---
 title: Marcory
 url: /marcory/
-latitude: 5.296
-longitude: -3.988
+latitude: 5.31
+longitude: -3.977
 ---
