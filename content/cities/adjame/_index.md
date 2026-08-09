@@ -2,5 +2,5 @@
 title: Adjamé
 url: /adjame/
 latitude: 5.347
-longitude: -4.023
+longitude: -4.026
 ---
