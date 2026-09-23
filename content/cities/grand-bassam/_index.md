@@ -2,5 +2,5 @@
 title: Grand Bassam
 url: /grand-bassam/
 latitude: 5.211
-longitude: -3.754
+longitude: -3.738
 ---
